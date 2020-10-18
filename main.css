@@ -1,0 +1,129 @@
+*{
+  margin:0;
+  box-sizing:border-box;
+  
+}
+
+.cim{
+  font-family: Montserrat thin ;
+  color: black;
+  font-size: 110px;
+  text-shadow: 35px 4px 5px white;
+  
+  
+}
+
+.background{
+  height: 100vh;
+  width: 100vh;
+  position: fixed;
+  z-index:-999;
+  
+}
+
+.adikartya{
+  position: absolute;
+  left: 8%;
+  top:38%; 
+}
+
+.img-adikep{
+  height: 490px;
+  
+}
+
+.img-mikikep{
+  height: 490px;
+  
+}
+
+.mikikartya{
+  position: absolute;
+  left: 46%;
+  top:15%;
+  box-shadow:15px 5px 40px ;
+  }
+
+.adikartya:hover{
+   
+  transform:scale(1.1);
+  transition-duration: 200ms;
+  filter:drop-shadow(3px 3px 30px coral);
+
+}
+
+.mikikartya:hover{
+   
+  transform:scale(1.1);
+  transition-duration: 200ms;
+  filter:drop-shadow(3px 3px 30px coral);
+}
+
+
+
+.facebook{
+  
+  position: absolute;
+  width: 67px;
+  height:64px;
+  bottom: 10%;
+  left:40%;
+}
+
+.facebook:hover{
+   
+  transform:scale(1.2);
+  transition-duration: 200ms;
+  filter:drop-shadow(3px 3px 30px coral);
+}
+
+.instagram{
+  
+  position: absolute;
+  width: 67px;
+  height:64px;
+  bottom: 10%;
+  left:45%;
+}
+
+.instagram:hover{
+   
+  transform:scale(1.2);
+  transition-duration: 200ms;
+  filter:drop-shadow(3px 3px 30px coral);}
+
+.youtube{
+  
+  position: absolute;
+  width: 67px;
+  height:64px;
+  bottom: 10%;
+  left:51%;
+}
+
+.youtube:hover{
+   
+  transform:scale(1.2);
+  transition-duration: 200ms;
+  filter:drop-shadow(3px 3px 30px coral);
+}
+  
+
+.klip{
+  position: absolute;
+  border:solid;
+  left:66%;
+  bottom:3%;
+
+}
+.klip:hover{
+  filter:drop-shadow(8px 8px 50px coral);
+  
+}
+
+
+.cim:hover{
+  text-shadow: 1px 2px 10px ;
+  filter:drop-shadow(3px 3px 50px black);
+  color:white;
+}
