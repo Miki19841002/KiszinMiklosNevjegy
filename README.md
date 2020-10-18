@@ -1,0 +1,2 @@
+# KiszinMiklosNevjegy
+KiszinMiklosHetediklecke
