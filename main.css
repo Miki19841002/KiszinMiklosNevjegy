@@ -23,8 +23,8 @@
 
 .adikartya{
   position: absolute;
-  left: 8%;
-  top:38%; 
+  left:0%;
+  top:0%; 
 }
 
 .img-adikep{
@@ -39,8 +39,8 @@
 
 .mikikartya{
   position: absolute;
-  left: 46%;
-  top:15%;
+  left: 0%;
+  top:0%;
   box-shadow:15px 5px 40px ;
   }
 
@@ -67,7 +67,7 @@
   width: 67px;
   height:64px;
   bottom: 10%;
-  left:40%;
+  left:0%;
 }
 
 .facebook:hover{
@@ -83,7 +83,7 @@
   width: 67px;
   height:64px;
   bottom: 10%;
-  left:45%;
+  left:0%;
 }
 
 .instagram:hover{
@@ -98,7 +98,7 @@
   width: 67px;
   height:64px;
   bottom: 10%;
-  left:51%;
+  left:0%;
 }
 
 .youtube:hover{
@@ -112,7 +112,7 @@
 .klip{
   position: absolute;
   border:solid;
-  left:66%;
+  left:0%;
   bottom:3%;
 
 }
